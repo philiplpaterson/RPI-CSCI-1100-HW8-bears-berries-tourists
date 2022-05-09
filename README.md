@@ -1,7 +1,5 @@
 # bears-berries-tourist
-## Rensselaer Polytechnic Institute
-Computer Science I
-HW 08
+**Rensselaer Polytechnic Institute | Computer Science | HW 08**
 
 This repo represents a homework that I have done for my Computer Science I course. Please refer to the pdf file for specific information on the homework.
 
