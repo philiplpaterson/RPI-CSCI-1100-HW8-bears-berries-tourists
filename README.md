@@ -1,5 +1,5 @@
 # bears-berries-tourist
-Rensselaer Polytechnic Institute
+##Rensselaer Polytechnic Institute
 Computer Science I
 HW 08
 
